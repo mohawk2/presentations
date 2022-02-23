@@ -1,0 +1,47 @@
+Graph theory (https://en.wikipedia.org/wiki/Graph_theory) is a branch of computer science and maths that studies "things" and "connections between things" (nothing to do with charts). They're really useful for modelling networks (including social ones!), machine learning (aka "artificial intelligence"), biology, and abstract data like parse trees.
+
+Quite a lot of data you might need to deal with is actually best dealt with as a graph. Doing that can mean you can then throw your application's data into a visualiser to see instantly what's going on!
+
+Come along on XX Feb (time, place, etc) to learn more! There may even be pizza.
+
+
+
+
+
+
+
+
+Graph Theory
+
+Why
+What
+How (in computing)
+Algorithms (why bought ticket)
+Resources
+Exercises
+
+Why? Used in:
+- network routeing
+- social media
+- machine learning
+- genetics
+- software build systems such as make (for dependencies - an example of hypergraphs)
+
+What?
+Things, and connections between things (directed vs undirected)
+
+How? (in computing)
+With matrix:
+Dense, of adjacency/weight (undir=symmetric)
+Sparse or hyper, incidence
+Otherwise various forms of linked-list like
+Scale considerations (when working with size of a billion nodes)
+
+Algorithms (why you bought the ticket):
+Transitive closure
+All-pairs shortest path: Dijkstra, Floyd-Warshall
+Connected components
+
+Further resources: Wikipedia pages
+
+Exercises
