@@ -1,0 +1,22 @@
+Programming is hard. One of the hardest things is deciding the “shape” of the program, or library, or system, you want to make. It can seem like a way to proceed is to start writing code, and make decisions later. But there is a better way! If you instead think about configuration data, and write only enough code to give that data form, your program will be much more flexible.
+
+what
+unix philosophy
+GUIs as way to restrict user (sometimes in good way)
+
+how
+techniques:
+spotting repetition
+
+why:
+less work
+lets you do data science and connect things up
+
+tests (pytest-bdd-web)
+anti-virus
+CGI
+pdl demos
+NIH
+TriD
+
+PowerBI
